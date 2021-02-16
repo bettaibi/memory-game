@@ -1,2 +1,4 @@
 # memory-game
-Memory game using javascript
+Memory game using pure javascript.
+
+(Demo Here)[https://bettaibi-memory-game.netlify.app]
